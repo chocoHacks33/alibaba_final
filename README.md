@@ -17,7 +17,7 @@ AdMorph.AI is an AI-powered advertisement evolution platform that transforms a s
 | Frontend         | Backend         | AI Models                                      | Other                     |
 |------------------|------------------|------------------------------------------------|---------------------------|
 | React + TypeScript | FastAPI + Python | Qwen 2.5 Max (V2T & T2T)                       | Alibaba Cloud Model Studio |
-|                  |                  | WAN Video Generation 1.3B                      | AI Application Agent       |
+|                  |                  | WAN Video Generation 1.3B                      | AI Application Agent + Custom Plugin      |
 
 ---
 
